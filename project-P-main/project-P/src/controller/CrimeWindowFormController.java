@@ -25,7 +25,6 @@ import java.sql.SQLException;
 
 public class CrimeWindowFormController {
     private static Criminal criminal;
-
     public TextField firstNameId;
     public Button mainBtn;
     public Button backBtn;

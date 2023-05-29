@@ -21,7 +21,7 @@ public class CatogeryFormController {
     @FXML
     public void initialize(){
         typeOfCaseId.getItems().addAll(
-                "Credit Card Fraud", //crime /mo /drugs /wc
+                "Credit Card Fraud",
                 "Embezzlement (above rs.500000)",
                 "Identity Theft",
                 "Homicide",
@@ -104,7 +104,6 @@ public class CatogeryFormController {
                     "Select case type and Area" ,
                     ButtonType.OK).show();
         }
-
     }
 
     public void mainBtnOnAction(ActionEvent actionEvent) throws IOException {

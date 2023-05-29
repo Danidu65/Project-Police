@@ -11,7 +11,6 @@ public class AddNewCaseWindowFormController {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/"+department+".fxml")));
     }
-
     public void btnMainOnAction(ActionEvent actionEvent) throws IOException {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/CriminalMainMenuForm.fxml")));

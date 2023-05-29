@@ -12,7 +12,6 @@ import java.io.IOException;
 import java.sql.SQLException;
 
 public class CriminalIdSearchFormController {
-
     public Button btnSearch;
     public Button btnMain;
     public TextField idOrNameTextField;
@@ -37,7 +36,6 @@ public class CriminalIdSearchFormController {
                     ButtonType.OK).show();
         }
     }
-
     public void btnMainOnAction(ActionEvent actionEvent) throws IOException {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/CriminalMainMenuForm.fxml")));

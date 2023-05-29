@@ -25,7 +25,6 @@ public class CatogeryViewFormControllers {
     public static CriminalCategorizedType categorizedType1;
     public static int round;
     public static CriminalCategorizedType[][] ar;
-
     public JFXTextField fullNameId1;
     public JFXTextField addressId1;
     public JFXTextField nicId1;
@@ -89,10 +88,6 @@ public class CatogeryViewFormControllers {
         if (catogerizedArray.size()<=3){
             backBtn.setVisible(false);
         }
-
-
-
-
     }
 
     public void backBtnOnAction(ActionEvent actionEvent) {

@@ -32,7 +32,6 @@ import java.sql.SQLException;
 public class CriminalDetailsFormController {
     public static Criminal criminal;
     public static Criminal tempCriminal;
-
     public JFXButton addCaseBtn;
     public JFXButton updateBtn;
     public JFXTextField nicId;
