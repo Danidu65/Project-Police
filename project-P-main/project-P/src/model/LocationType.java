@@ -11,7 +11,6 @@ public class LocationType {
     private int minorCase;
     private int majorCount;
     private int criminals;
-
     public int getCriminals() {
         return criminals;
     }

@@ -163,7 +163,6 @@ public class Vehicle {
                 driver.setLicenceNo(rs.getString(7));
 
                 vehicle.setDriver(driver);
-
             }
 
             return vehicle;

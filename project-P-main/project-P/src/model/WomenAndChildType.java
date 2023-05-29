@@ -10,7 +10,6 @@ public class WomenAndChildType extends CaseTypeAll{
     private String location;
     private String date;
     private String sOrC;
-
     public WomenAndChildType() {
 
     }

@@ -136,8 +136,6 @@ public class DrugsType extends CaseTypeAll{
         }else {
             return null;
         }
-
-
     }
     public static boolean addDrugsType(DrugsType drugsType) throws ClassNotFoundException, SQLException {
         Class.forName("com.mysql.cj.jdbc.Driver");
