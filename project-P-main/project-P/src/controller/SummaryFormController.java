@@ -10,7 +10,6 @@ import java.io.IOException;
 public class SummaryFormController {
     public ImageView clockView;
     public ImageView mapViewId;
-
     public void btnMainOnAction(ActionEvent actionEvent) throws IOException {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/CriminalMainMenuForm.fxml")));

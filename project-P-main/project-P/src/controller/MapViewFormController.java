@@ -14,7 +14,6 @@ import java.util.ArrayList;
 public class MapViewFormController {
     public static ArrayList<LocationType> ar;
     public static int round;
-
     public Label label1;
     public JFXButton backWardBtn;
     public JFXButton forwardBtn;

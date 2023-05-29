@@ -13,13 +13,11 @@ public class CriminalMainMenuFormController {
     public JFXButton categorizedBtn;
     public JFXButton summaryBtn;
     public JFXButton addDataBtn;
-
     public AnchorPane loginDashBoardContext;
 
     public void logOutBtnOnAction(ActionEvent actionEvent) throws IOException {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/LoginMainForm.fxml")));
-
     }
 
     public void searchIdBtnOnAction(ActionEvent actionEvent) throws IOException {

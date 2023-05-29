@@ -19,6 +19,7 @@ import java.sql.SQLException;
 
 public class MoDivisionUpdateFormController {
     public JFXButton backBtn;
+
     public JFXButton mainBtn;
     public ComboBox caseTypeId;
     public JFXTextField dateTextFieldId;

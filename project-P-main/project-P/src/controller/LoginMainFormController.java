@@ -18,14 +18,13 @@ import java.sql.*;
 
 public class LoginMainFormController {
     public JFXButton loginButton;
-
     public JFXTextField userNameTextField;
     public JFXPasswordField passwordNameTextField;
 
     public JFXCheckBox checkBoxCriminal;
     public JFXCheckBox checkBoxTraffic;
-
     public AnchorPane mainMenuRoot;
+
     public static AnchorPane mainMenuRootCopy;
 
     public void btnLoginOnAction(ActionEvent actionEvent) throws ClassNotFoundException, SQLException, IOException {
