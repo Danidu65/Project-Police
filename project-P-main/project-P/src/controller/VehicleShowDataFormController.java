@@ -14,7 +14,6 @@ import java.io.IOException;
 
 public class VehicleShowDataFormController {
     public static Vehicle vehicle;
-
     public TextField drName;
     public TextField driverIdNamer;
     public TextField address;

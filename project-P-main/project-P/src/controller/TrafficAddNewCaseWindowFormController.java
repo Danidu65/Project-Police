@@ -7,7 +7,6 @@ import java.io.IOException;
 
 public class TrafficAddNewCaseWindowFormController {
     public void btnAddNewOnAction(ActionEvent actionEvent) {
-
     }
 
     public void btnMainOnAction(ActionEvent actionEvent) throws IOException {

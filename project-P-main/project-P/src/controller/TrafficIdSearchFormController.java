@@ -15,7 +15,6 @@ public class TrafficIdSearchFormController {
     public JFXTextField searchIdTextField;
     public JFXButton searchBtn;
     public JFXButton mainMenuBtn;
-
     public void searchIdTextFieldOnAction(ActionEvent actionEvent) throws SQLException, IOException, ClassNotFoundException {
         searchBtnOnAction(new ActionEvent());
     }
