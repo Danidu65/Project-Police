@@ -10,7 +10,6 @@ public class Driver {
     private String birthDay;
     private String birthPlace;
     private String licenceNo;
-
     public Driver() {
     }
 

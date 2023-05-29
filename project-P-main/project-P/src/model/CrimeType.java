@@ -112,5 +112,4 @@ public class CrimeType extends CaseTypeAll{
         ps.executeUpdate();
         return true;
     }
-
 }

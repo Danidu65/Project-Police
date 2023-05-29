@@ -23,7 +23,6 @@ public class Criminal {
     private String birthPlace;
     private CaseTypeAll caseTypeAll;
 
-
     public Criminal(WritableImage photo, String fullName, String nic, String gender, String birthDay, String address, String birthPlace) {
         this.photo = photo;
         this.fullName = fullName;

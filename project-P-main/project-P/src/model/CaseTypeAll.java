@@ -19,6 +19,7 @@ public class CaseTypeAll {
             caseIdAr.add(rs.getString(2));
         }
 /////////////////////////////////////////////////////////////////
+
         ps = con.prepareStatement("SELECT criminal_wom.nic , criminal_wom.caseId , womenAndChild.sOrC FROM criminal_wom INNER JOIN womenAndChild ON criminal_wom.caseId = womenAndChild.caseId WHERE (criminal_wom.nic = ? && womenAndChild.sOrC = ?) ");
         ps.setString(1 , nic);
         ps.setString(2, "minor case");
@@ -56,6 +57,7 @@ public class CaseTypeAll {
             caseIdAr.add(rs.getString(2));
         }
 /////////////////////////////////////////////////////////////////////////////////
+
         ps = con.prepareStatement("SELECT criminal_wom.nic , criminal_wom.caseId , womenAndChild.sOrC FROM criminal_wom INNER JOIN womenAndChild ON criminal_wom.caseId = womenAndChild.caseId WHERE (criminal_wom.nic = ? && womenAndChild.sOrC = ?) ");
         ps.setString(1 , nic);
         ps.setString(2, "major case");
