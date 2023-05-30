@@ -32,7 +32,6 @@ public class Criminal {
         this.address = address;
         this.birthPlace = birthPlace;
     }
-
     public Criminal() {
 
     }

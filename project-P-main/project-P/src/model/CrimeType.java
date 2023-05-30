@@ -10,7 +10,6 @@ public class CrimeType extends CaseTypeAll{
     private String description;
     private String location;
     private String date;
-
     public String getCaseId() {
         return caseId;
     }

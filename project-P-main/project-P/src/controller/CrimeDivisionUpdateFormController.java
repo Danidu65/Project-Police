@@ -18,6 +18,7 @@ import java.sql.SQLException;
 public class CrimeDivisionUpdateFormController {
     public ComboBox caseTypeComboBoxId;
     public JFXTextField dateTextFieldId;
+
     public ComboBox locationId;
     public JFXButton saveBtn;
     public JFXTextArea descriptionTextAreaId;
