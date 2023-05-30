@@ -2,7 +2,6 @@ package controller;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
-
 import java.io.IOException;
 
 public class VehicleAddDataFormController {

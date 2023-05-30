@@ -24,6 +24,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 
 public class WomenAndChildAddDataFormController {
+
     private static Criminal criminal;
     public RadioButton minorCase;
     public RadioButton majorCase;

@@ -11,7 +11,6 @@ public class WomenAndChildType extends CaseTypeAll{
     private String date;
     private String sOrC;
     public WomenAndChildType() {
-
     }
 
     public WomenAndChildType(String caseId, String womenOrChild, String caseType, String description, String location, String date, String sOrC) {

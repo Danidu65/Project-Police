@@ -5,8 +5,7 @@
     -fx-text-fill: #000000;
 }
 
-.combo-box-popup .list-view
-{
+.combo-box-popup .list-view{
     -fx-background-color: rgba(229, 155, 155, 0), rgba(255, 255, 255, 0);
     -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 8, 0.0 , 0 , 0 );
 }

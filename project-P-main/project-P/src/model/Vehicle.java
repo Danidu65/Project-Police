@@ -23,7 +23,6 @@ public class Vehicle {
     private Driver driver;
 
     public Vehicle() {
-
     }
 
     public Vehicle(String vehiNo, String vehiType, String vehiColour, String chassiNo, String engineNo, WritableImage vehiPhoto, String owner, String vehiLicenceNo, Driver driver) {
