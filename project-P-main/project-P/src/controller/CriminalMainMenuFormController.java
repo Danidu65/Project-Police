@@ -39,5 +39,4 @@ public class CriminalMainMenuFormController {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/AddCriminalDataForm.fxml")));
     }
-
 }

@@ -77,5 +77,6 @@ public class CriminalCategorizedType {
     }
 
     public CriminalCategorizedType() {
+
     }
 }

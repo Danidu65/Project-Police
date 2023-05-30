@@ -12,7 +12,6 @@ public class Driver {
     private String licenceNo;
     public Driver() {
     }
-
     public Driver(WritableImage image, String id, String name, String address, String birthDay, String birthPlace, String licenceNo) {
         this.image = image;
         this.id = id;

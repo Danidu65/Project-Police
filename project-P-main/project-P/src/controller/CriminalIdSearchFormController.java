@@ -28,7 +28,6 @@ public class CriminalIdSearchFormController {
                 new Alert(Alert.AlertType.INFORMATION ,
                         "Id or Name Not Found" ,
                         ButtonType.OK).show();
-
             }
         }else{
             new Alert(Alert.AlertType.INFORMATION ,
