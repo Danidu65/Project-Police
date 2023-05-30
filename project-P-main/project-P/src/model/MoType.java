@@ -59,7 +59,6 @@ public class MoType extends CaseTypeAll{
     public MoType() {
 
 
-
     }
     public static MoType searchMoType(String caseId) throws ClassNotFoundException, SQLException {
         Class.forName("com.mysql.cj.jdbc.Driver");

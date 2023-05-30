@@ -30,7 +30,6 @@ public class DrugsDivisionUpdateFormController {
     public ComboBox locationId;
     public JFXTextArea descriptionId;
     public JFXTextField caseId;
-
     @FXML
     public void initialize(){
         caseTypeId.getItems().addAll(

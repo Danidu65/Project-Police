@@ -130,5 +130,4 @@ public class LocationType {
         return arrayList;
 
     }
-
 }

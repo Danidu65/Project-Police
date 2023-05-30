@@ -169,5 +169,4 @@ public class DrugsType extends CaseTypeAll{
         ps.executeUpdate();
         return true;
     }
-
 }

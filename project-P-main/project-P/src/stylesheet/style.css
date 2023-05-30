@@ -7,8 +7,7 @@
     -fx-text-fill: white;
 
 }
-.combo-box .list-cell
-{
+.combo-box .list-cell{
     -fx-background: #0b0a61;
     -fx-background-color: #0b0a61;
 

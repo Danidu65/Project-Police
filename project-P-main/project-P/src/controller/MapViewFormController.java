@@ -91,7 +91,6 @@ public class MapViewFormController {
                     "\tMinor cases  : "+ar.get(8).getMinorCase()+"\n\n\t"+"Major cases  : "+ar.get(8).getMajorCount()+"\n\n\tCriminals  : "+ar.get(8).getCriminals());
             label2.setText( "\t\tLocation   : "+ar.get(9).getLocation()+"\n\n\tAll cases    : "+ar.get(9).getCount()+"\n\n"+
                     "\tMinor cases  : "+ar.get(9).getMinorCase()+"\n\n\t"+"Major cases  : "+ar.get(9).getMajorCount()+"\n\n\tCriminals  : "+ar.get(9).getCriminals());
-
         }
     }
 }
