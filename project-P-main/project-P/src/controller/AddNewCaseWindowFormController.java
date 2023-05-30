@@ -6,6 +6,7 @@ import javafx.fxml.FXMLLoader;
 import java.io.IOException;
 
 public class AddNewCaseWindowFormController {
+
     public static String department;
     public void btnAddNewOnAction(ActionEvent actionEvent) throws IOException {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();

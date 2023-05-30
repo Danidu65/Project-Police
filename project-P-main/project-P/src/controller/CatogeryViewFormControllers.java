@@ -111,8 +111,6 @@ public class CatogeryViewFormControllers {
     }
 
 
-
-
     public void setVisible(int numberOfColumns){
         if (numberOfColumns == 1){
             imageView1.setVisible(true);

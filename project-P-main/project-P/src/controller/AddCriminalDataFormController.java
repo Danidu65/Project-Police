@@ -14,7 +14,6 @@ public class AddCriminalDataFormController {
     public JFXButton btnAdd;
     public JFXButton btnMain;
     public ComboBox departmentComboBox;
-
     @FXML
     public void initialize(){
         departmentComboBox.getItems().addAll(
