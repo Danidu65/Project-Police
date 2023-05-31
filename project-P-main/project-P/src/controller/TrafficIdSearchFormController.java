@@ -44,4 +44,5 @@ public class TrafficIdSearchFormController {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/TrafficMainMenuForm.fxml")));
     }
+
 }

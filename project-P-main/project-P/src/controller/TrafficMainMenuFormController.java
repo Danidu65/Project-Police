@@ -26,4 +26,5 @@ public class TrafficMainMenuFormController {
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/LoginMainForm.fxml")));
 
     }
+
 }
