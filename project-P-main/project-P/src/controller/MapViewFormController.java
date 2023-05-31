@@ -93,4 +93,5 @@ public class MapViewFormController {
                     "\tMinor cases  : "+ar.get(9).getMinorCase()+"\n\n\t"+"Major cases  : "+ar.get(9).getMajorCount()+"\n\n\tCriminals  : "+ar.get(9).getCriminals());
         }
     }
+
 }

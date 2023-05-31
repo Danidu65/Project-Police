@@ -26,7 +26,6 @@ public class MoDivisionUpdateFormController {
     public JFXButton saveBtn;
     public JFXTextArea descriptionTextAreaId;
     public JFXTextField caseId;
-
     @FXML
     public void initialize(){
         caseTypeId.getItems().addAll(
