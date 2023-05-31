@@ -14,7 +14,6 @@
 {
 
     -fx-text-fill: white;
-    /* No alternate highlighting */
     -fx-background-color: rgba(0, 0, 0, 0.66);
 }
 

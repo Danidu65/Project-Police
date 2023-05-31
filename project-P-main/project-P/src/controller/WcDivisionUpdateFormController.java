@@ -22,7 +22,6 @@ public class WcDivisionUpdateFormController {
     public RadioButton childId;
     public ComboBox caseTypeId;
     public JFXTextField descriptionId;
-
     public ComboBox locationId;
     public JFXTextField dateId;
     public ComboBox sOrCId;
