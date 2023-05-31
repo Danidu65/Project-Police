@@ -39,7 +39,6 @@ public class CriminalIdSearchFormController {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/CriminalMainMenuForm.fxml")));
     }
-
     public void idOrNameTextField(ActionEvent actionEvent) throws IOException, SQLException, ClassNotFoundException {
         btnSeachOnAction(new ActionEvent());
     }

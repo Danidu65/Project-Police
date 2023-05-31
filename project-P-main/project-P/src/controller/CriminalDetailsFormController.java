@@ -38,7 +38,6 @@ public class CriminalDetailsFormController {
     public JFXTextField dateOfBirthId;
     public JFXTextField addressId;
     public JFXTextField birthPlaceId;
-
     public JFXButton mainBtn;
     public JFXButton backBtn;
     public Slider minorCaseSlider;

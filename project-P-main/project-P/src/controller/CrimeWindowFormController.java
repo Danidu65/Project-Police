@@ -39,7 +39,6 @@ public class CrimeWindowFormController {
     public RadioButton male;
     public RadioButton female;
     public TextArea des;
-
     public TextField caseId;
     public ComboBox locationComboBoxId;
     public ComboBox caseTypeComboBoxId;
