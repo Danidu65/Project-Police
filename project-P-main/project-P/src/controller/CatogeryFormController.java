@@ -11,7 +11,6 @@ import model.CaseTypeAll;
 
 import java.io.IOException;
 import java.sql.SQLException;
-
 public class CatogeryFormController {
     public ComboBox typeOfCaseId;
     public ComboBox areaId;

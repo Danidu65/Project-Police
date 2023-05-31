@@ -99,7 +99,6 @@ public class CatogeryViewFormControllers {
         setColumnsForward();
 
     }
-
     public void backBtnMainOnAction(ActionEvent actionEvent) throws IOException {
         LoginMainFormController.mainMenuRootCopy.getChildren().clear();
         LoginMainFormController.mainMenuRootCopy.getChildren().add(FXMLLoader.load(getClass().getResource("../view/CatogeryForm.fxml")));

@@ -9,7 +9,6 @@ import javafx.scene.control.ButtonType;
 import javafx.scene.control.ComboBox;
 
 import java.io.IOException;
-
 public class AddCriminalDataFormController {
     public JFXButton btnAdd;
     public JFXButton btnMain;

@@ -4,7 +4,6 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
 
 import java.io.IOException;
-
 public class AddNewCaseWindowFormController {
 
     public static String department;
