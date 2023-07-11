@@ -3,7 +3,6 @@ package model;
 import controller.CriminalDetailsFormController;
 
 import java.sql.*;
-
 public class CrimeType extends CaseTypeAll{
     private String caseId;
     private String caseType;

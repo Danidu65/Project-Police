@@ -1,7 +1,6 @@
 package model;
 
 import javafx.scene.image.WritableImage;
-
 public class CriminalCategorizedType {
     private WritableImage image;
     private String fullName;
