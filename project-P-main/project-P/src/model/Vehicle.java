@@ -1,5 +1,4 @@
 package model;
-
 import javafx.embed.swing.SwingFXUtils;
 import javafx.scene.image.WritableImage;
 

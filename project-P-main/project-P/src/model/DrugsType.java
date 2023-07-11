@@ -1,5 +1,4 @@
 package model;
-
 import java.sql.*;
 public class DrugsType extends CaseTypeAll{
     private String caseId;

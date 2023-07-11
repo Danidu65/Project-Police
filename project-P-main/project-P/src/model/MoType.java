@@ -1,5 +1,4 @@
 package model;
-
 import java.sql.*;
 public class MoType extends CaseTypeAll{
     private String caseId;
