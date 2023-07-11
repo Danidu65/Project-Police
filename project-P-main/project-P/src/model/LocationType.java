@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.HashSet;
-
 public class LocationType {
     private String location;
     private String count;

@@ -10,7 +10,6 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.sql.*;
-
 public class Vehicle {
     private String vehiNo;
     private String vehiType;
