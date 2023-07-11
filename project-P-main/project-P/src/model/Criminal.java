@@ -1,5 +1,4 @@
 package model;
-
 import javafx.embed.swing.SwingFXUtils;
 import javafx.scene.effect.ImageInput;
 import javafx.scene.image.Image;

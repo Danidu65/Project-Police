@@ -1,5 +1,4 @@
 package model;
-
 import javafx.scene.image.WritableImage;
 public class Driver {
     private WritableImage image;

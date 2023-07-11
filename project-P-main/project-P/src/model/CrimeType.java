@@ -1,5 +1,4 @@
 package model;
-
 import controller.CriminalDetailsFormController;
 
 import java.sql.*;
